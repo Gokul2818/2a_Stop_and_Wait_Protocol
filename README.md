@@ -39,11 +39,11 @@ while True:
 ```
 ## OUTPUT
 ## SERVER
-![SERVER](https://github.com/user-attachments/assets/01aeae0d-25d0-4756-8db7-d14128dc77fb)
+<img width="1481" height="424" alt="EX SERVER" src="https://github.com/user-attachments/assets/40826f0a-1948-4eac-b937-ea9dd0de10f2" />
 
 
 ## CLIENT
-![CLIENT](https://github.com/user-attachments/assets/d080dd29-4cf1-4f56-a6cf-7d752e689292)
+<img width="1475" height="373" alt="EX CLIENT" src="https://github.com/user-attachments/assets/209c341b-002d-406f-a41a-918ef683e969" />
 
 
 ## RESULT
